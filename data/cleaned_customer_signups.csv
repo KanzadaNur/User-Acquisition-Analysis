@@ -1,0 +1,292 @@
+customer_id,name,email,signup_date,source,region,plan_selected,marketing_opt_in,age,gender
+CUST00000,Joshua Bryant,noemail@example.com,,Instagram,North,Basic,No,34,Female
+CUST00001,Nicole Stewart,nicole1@example.com,2024-01-02,LinkedIn,West,Basic,Yes,29,Male
+CUST00002,Rachel Allen,rachel2@example.com,2024-01-03,Google,North,Premium,Yes,34,Not specified
+CUST00003,Zachary Sanchez,zachary3@mailhub.org,2024-01-04,YouTube,North,Pro,No,40,Male
+CUST00005,John Gonzales,john5@mailhub.org,2024-01-06,Facebook,South,Premium,No,34,Not specified
+CUST00006,Crystal Mason,crystal6@mailhub.org,2024-01-07,YouTube,North,Unknownplan,Yes,40,Male
+CUST00007,Michael Bailey,michael7@mailhub.org,2024-01-08,YouTube,Central,Pro,Yes,60,Not specified
+CUST00008,Bianca Morris,bianca8@example.com,2024-01-09,Referral,West,Pro,Yes,25,Male
+CUST00009,Cindy Anderson,noemail@example.com,2024-01-10,Google,East,Premium,No,29,Female
+CUST00010,Kendra Gill,kendra10@mailhub.org,2024-01-11,Google,Central,Pro,No,29,Male
+CUST00011,Lisa Miller,lisa11@mailhub.org,2024-01-12,Facebook,Central,Premium,Yes,40,Female
+CUST00012,Sarah Fletcher,sarah12@example.com,2024-01-13,Facebook,North,Premium,No,29,Not specified
+CUST00013,Michael Cole,michael13@mailhub.org,2024-01-14,YouTube,South,Basic,No,34,Female
+CUST00014,Christopher Stevens,christopher14@example.com,2024-01-15,Instagram,South,Premium,No,47,Female
+CUST00015,Anthony Anderson,anthony15@example.com,2024-01-16,Referral,West,Premium,Yes,47,Female
+CUST00016,Gary Walters,gary16@inboxmail.net,2024-01-17,Referral,North,Premium,No,34,Not specified
+CUST00017,Patty Paul,patty17@inboxmail.net,2024-01-18,YouTube,East,Pro,No,53,Not specified
+CUST00018,Tara Harmon,noemail@example.com,2024-01-19,LinkedIn,Central,Basic,Yes,34,Female
+CUST00019,Yvonne Parker,yvonne19@inboxmail.net,2024-01-20,Instagram,Central,Pro,Yes,34,Male
+CUST00020,Linda Johnson,linda20@inboxmail.net,2024-01-21,YouTube,South,Basic,No,21,Not specified
+CUST00021,Suzanne Jones,suzanne21@mailhub.org,2024-01-22,Instagram,Central,Basic,No,0,Female
+CUST00022,Erik Key,erik22@inboxmail.net,2024-01-23,Instagram,North,Premium,Yes,25,Not specified
+CUST00023,Dawn Cook,dawn23@example.com,2024-01-24,Instagram,Central,Basic,Yes,0,Not specified
+CUST00024,Mitchell Kerr,mitchell24@mailhub.org,2024-01-25,Google,North,Pro,No,21,Female
+CUST00025,Latoya Marks,latoya25@inboxmail.net,2024-01-26,Referral,South,Premium,No,40,Not specified
+CUST00026,Karen Holder,karen26@example.com,2024-01-27,Referral,Central,Basic,No,25,Male
+CUST00027,Adam Hampton,noemail@example.com,2024-01-28,Instagram,North,Premium,No,25,Female
+CUST00028,Gabrielle Herrera,gabrielle28@mailhub.org,2024-01-29,LinkedIn,South,Basic,Yes,21,Female
+CUST00029,Julia Morales,julia29@mailhub.org,2024-01-30,Google,West,Pro,No,21,Female
+CUST00031,Keith Davis,keith31@mailhub.org,2024-02-01,Google,West,Premium,Yes,40,Female
+CUST00032,Paul Morse,paul32@example.com,2024-02-02,LinkedIn,West,Premium,No,29,Male
+CUST00033,Jodi Curry,jodi33mailhub.org,2024-02-03,YouTube,East,Basic,Yes,0,Male
+CUST00034,Anne Moreno,anne34@example.com,2024-02-04,Instagram,South,Pro,No,40,Male
+CUST00035,Antonio Martinez,antonio35@mailhub.org,2024-02-05,Referral,South,Basic,No,21,Male
+CUST00037,Thomas Ruiz,thomas37@inboxmail.net,2024-02-07,Facebook,North,Premium,Yes,0,Female
+CUST00038,Ashley Espinoza,ashley38@example.com,2024-02-08,Facebook,East,Basic,No,40,Male
+CUST00039,Craig Walker,craig39@mailhub.org,2024-02-09,LinkedIn,East,Basic,No,25,Not specified
+CUST00040,Mary Phillips,mary40@mailhub.org,2024-02-10,Instagram,East,Premium,No,0,Male
+CUST00041,Christopher Zuniga,christopher41@mailhub.org,2024-02-11,Google,North,Premium,Yes,29,Female
+CUST00042,Antonio Wilson Jr.,antonio42@example.com,2024-02-12,Instagram,North,Basic,No,34,Male
+CUST00043,Christian Lane,christian43@example.com,2024-02-13,Google,East,Basic,Yes,25,Female
+CUST00044,Tyler Burns,tyler44@example.com,2024-02-14,LinkedIn,East,Basic,Yes,25,Not specified
+CUST00045,Tyler Ortiz,noemail@example.com,2024-02-15,LinkedIn,West,Pro,No,25,Male
+CUST00046,Luke Crane,luke46@inboxmail.net,2024-02-16,Facebook,North,Pro,Yes,60,Female
+CUST00047,Deborah Miller,deborah47@inboxmail.net,2024-02-17,Google,Central,Pro,No,47,Not specified
+CUST00048,Angel Chavez,angel48@example.com,2024-02-18,YouTube,North,Basic,No,25,Not specified
+CUST00049,Aaron Ray,aaron49@mailhub.org,2024-02-19,Facebook,East,Premium,No,25,Female
+CUST00050,Monique Rodriguez,monique50@inboxmail.net,2024-02-20,Instagram,West,Premium,No,47,Female
+CUST00051,Bradley Solomon,bradley51@example.com,2024-02-21,Google,North,Premium,No,25,Male
+CUST00052,Courtney Mclaughlin,courtney52@mailhub.org,2024-02-22,YouTube,West,Pro,Yes,25,Female
+CUST00053,Rebecca Lopez,rebecca53@inboxmail.net,2024-02-23,Referral,North,Pro,Yes,0,Female
+CUST00054,Tanner Davis,noemail@example.com,2024-02-24,Referral,East,Premium,No,25,Not specified
+CUST00055,Kimberly Powell,kimberly55@mailhub.org,2024-02-25,Referral,West,Premium,No,40,Not specified
+CUST00056,Brian Hardy,brian56@mailhub.org,2024-02-26,Referral,East,Pro,Yes,0,Female
+CUST00057,Marissa Holland,marissa57@mailhub.org,2024-02-27,Google,West,Premium,Yes,29,Female
+CUST00058,James Martin,james58@mailhub.org,2024-02-28,Referral,North,Premium,Yes,21,Not specified
+CUST00059,Michael Lee,michael59@inboxmail.net,2024-02-29,YouTube,North,Basic,Yes,25,Female
+CUST00060,Steven Allen,steven60@inboxmail.net,2024-03-01,LinkedIn,East,Basic,No,53,Female
+CUST00061,Chelsey Ford,chelsey61@inboxmail.net,2024-03-02,LinkedIn,North,Pro,No,53,Female
+CUST00062,Michael Alvarez,michael62@example.com,2024-03-03,Google,North,Pro,Yes,47,Not specified
+CUST00063,Tamara Cox,noemail@example.com,2024-03-04,Referral,Central,Pro,No,21,Male
+CUST00064,Alyssa Griffith,alyssa64@inboxmail.net,2024-03-05,Referral,North,Pro,Yes,53,Not specified
+CUST00065,Richard Hudson,richard65@mailhub.org,2024-03-06,Referral,North,Premium,No,60,Female
+CUST00066,Chris Tucker,chris66@inboxmail.net,2024-03-07,Facebook,Central,Premium,Yes,40,Not specified
+CUST00067,Thomas Brown IV,thomas67@mailhub.org,2024-03-08,Instagram,East,Premium,No,60,Not specified
+CUST00068,Jesus Cantu,jesus68@example.com,2024-03-09,Facebook,East,Pro,Yes,53,Female
+CUST00069,Jean Gay,jean69@mailhub.org,2024-03-10,Instagram,South,Premium,Yes,40,Female
+CUST00070,Mary Martin,mary70@mailhub.org,2024-03-11,Referral,North,Premium,No,40,Female
+CUST00071,Joe Hunt,joe71@mailhub.org,2024-03-12,Referral,South,Basic,Yes,29,Not specified
+CUST00072,Megan Drake,noemail@example.com,2024-03-13,Facebook,Central,Pro,Yes,25,Not specified
+CUST00073,Charles Johns,charles73@example.com,2024-03-14,Facebook,North,Basic,No,40,Not specified
+CUST00074,Karen Gomez,karen74inboxmail.net,2024-03-15,Instagram,South,Basic,Yes,29,Not specified
+CUST00075,Tamara Cook,tamara75@inboxmail.net,2024-03-16,LinkedIn,South,Basic,No,53,Not specified
+CUST00076,Dalton Herrera,dalton76@example.com,2024-03-17,Instagram,East,Basic,No,0,Not specified
+CUST00077,Meagan Beard,meagan77@mailhub.org,2024-03-18,Facebook,North,Basic,No,47,Not specified
+CUST00078,Andrew Jenkins,andrew78@inboxmail.net,2024-03-19,YouTube,South,Basic,No,21,Male
+CUST00079,Sabrina Jackson,sabrina79@example.com,2024-03-20,Facebook,South,Pro,No,29,Not specified
+CUST00080,Charles Wright,charles80@inboxmail.net,,YouTube,West,Premium,Yes,21,Female
+CUST00081,Joanne Wade,noemail@example.com,2024-03-22,Google,East,Premium,No,40,Not specified
+CUST00082,Elizabeth Diaz DDS,elizabeth82@example.com,2024-03-23,Facebook,South,Premium,No,47,Not specified
+CUST00083,Kathy Glover,kathy83@mailhub.org,2024-03-24,Google,East,Premium,No,60,Not specified
+CUST00084,Scott Hatfield,scott84@inboxmail.net,2024-03-25,LinkedIn,North,Basic,Yes,34,Not specified
+CUST00085,Sandra Caldwell,sandra85@example.com,2024-03-26,Instagram,North,Basic,No,60,Male
+CUST00086,Bryan Obrien,bryan86@inboxmail.net,2024-02-02,YouTube,East,Pro,Yes,53,Male
+CUST00087,Tony Evans,tony87@inboxmail.net,2024-03-28,Instagram,East,Pro,No,29,Not specified
+CUST00088,Paula Bruce,paula88@inboxmail.net,2024-03-29,Google,North,Basic,Yes,0,Male
+CUST00089,Danielle Owens,danielle89@inboxmail.net,2024-03-30,YouTube,South,Basic,Yes,29,Not specified
+CUST00090,Mark Hensley,noemail@example.com,2024-03-31,Instagram,East,Basic,Yes,29,Not specified
+CUST00091,Melissa White,melissa91@example.com,2024-04-01,Google,West,Pro,Yes,40,Male
+CUST00092,Melissa Daniels,melissa92@mailhub.org,2024-04-02,Referral,North,Basic,No,29,Male
+CUST00093,Anna Meza,anna93@example.com,2024-04-03,Google,West,Pro,Yes,40,Not specified
+CUST00094,Nathan Hayes,nathan94@example.com,2024-04-04,Instagram,North,Basic,Yes,40,Not specified
+CUST00095,Jennifer Silva,jennifer95@example.com,2024-04-05,Google,North,Basic,No,34,Not specified
+CUST00096,Michelle Mcguire,michelle96@mailhub.org,2024-04-06,Google,North,Premium,No,29,Male
+CUST00097,Bryan George,bryan97@inboxmail.net,2024-04-07,YouTube,East,Basic,No,34,Not specified
+CUST00098,Wayne Hopkins,wayne98@inboxmail.net,2024-04-08,YouTube,North,Pro,Yes,40,Not specified
+CUST00099,Chelsey Rodriguez,noemail@example.com,2024-04-09,Referral,North,Pro,No,34,Female
+CUST00100,John Perez,john0@inboxmail.net,2024-04-10,Facebook,East,Premium,No,34,Not specified
+CUST00101,Angelica Arroyo,angelica1@mailhub.org,2024-04-11,Google,East,Premium,Yes,21,Not specified
+CUST00102,Michael Fitzgerald,michael2@inboxmail.net,2024-04-12,Instagram,North,Premium,No,40,Male
+CUST00103,Jennifer Reed,jennifer3@mailhub.org,2024-04-13,LinkedIn,West,Basic,No,25,Female
+CUST00105,Timothy Jensen,timothy5@inboxmail.net,2024-04-15,Google,Central,Pro,No,47,Not specified
+CUST00106,Hannah Davidson,hannah6@example.com,2024-04-16,Referral,South,Premium,Yes,34,Female
+CUST00107,Cindy Berry,cindy7@mailhub.org,2024-04-17,Facebook,North,Premium,No,34,Not specified
+CUST00108,Allison Hoffman,noemail@example.com,2024-04-18,LinkedIn,North,Basic,No,0,Male
+CUST00109,Margaret Franco,margaret9@example.com,2024-04-19,YouTube,East,Pro,Yes,53,Not specified
+CUST00110,Katherine Dunlap,katherine10@example.com,2024-04-20,YouTube,East,Basic,No,60,Female
+CUST00111,Mr. Robert Horne,mr.11@example.com,2024-04-21,Instagram,North,Pro,Yes,53,Male
+CUST00112,Tiffany Grant,tiffany12@mailhub.org,2024-04-22,LinkedIn,Central,Pro,No,21,Female
+CUST00113,Keith Myers,keith13@mailhub.org,2024-04-23,YouTube,East,Pro,Yes,25,Female
+CUST00114,Mary Jensen,mary14@inboxmail.net,2024-04-24,Instagram,East,Premium,Yes,34,Male
+CUST00115,Kevin Day,kevin15@example.com,2024-04-25,Facebook,East,Basic,Yes,25,Female
+CUST00116,Daniel Leonard,daniel16@inboxmail.net,2024-04-26,Instagram,East,Pro,Yes,30,Male
+CUST00117,Ashley Stokes,noemail@example.com,2024-04-27,YouTube,East,Basic,No,29,Not specified
+CUST00118,Joseph Santiago,joseph18@example.com,2024-04-28,Referral,North,Basic,Yes,34,Female
+CUST00119,Rachel Kelley,rachel19@mailhub.org,2024-04-29,Referral,North,Pro,Yes,47,Not specified
+CUST00120,Rachel Gray,rachel20@mailhub.org,,Referral,Central,Basic,Yes,47,Not specified
+CUST00121,Carolyn Castro,carolyn21@mailhub.org,2024-05-01,YouTube,North,Basic,Yes,34,Male
+CUST00122,Kristine Baker,kristine22@example.com,2024-05-02,Referral,South,Basic,Yes,53,Not specified
+CUST00123,Karen Hunter,karen23@mailhub.org,2024-05-03,LinkedIn,South,Premium,No,34,Male
+CUST00124,Samuel Bautista,samuel24@example.com,2024-05-04,Facebook,West,Pro,Yes,60,Not specified
+CUST00125,Valerie Miller,valerie25@inboxmail.net,2024-05-05,Instagram,East,Pro,No,21,Male
+CUST00126,Ronald Robinson,noemail@example.com,2024-05-06,Instagram,North,Basic,No,0,Male
+CUST00127,Larry Moore,larry27@example.com,2024-05-07,YouTube,North,Pro,No,40,Male
+CUST00128,Leslie Kennedy,leslie28@inboxmail.net,2024-05-08,Referral,West,Premium,No,29,Male
+CUST00129,Ashley Francis,ashley29@example.com,2024-05-09,Referral,West,Pro,No,0,Not specified
+CUST00130,Lori Jones,lori30@inboxmail.net,2024-05-10,Google,North,Premium,No,34,Male
+CUST00131,Andrea Walker,andrea31@mailhub.org,2024-05-11,Facebook,South,Basic,No,25,Male
+CUST00132,Patrick Kelley,patrick32@inboxmail.net,2024-05-12,LinkedIn,South,Basic,No,25,Female
+CUST00133,John Brooks,john33@mailhub.org,2024-05-13,Instagram,West,Premium,No,40,Not specified
+CUST00134,David Greene,david34@mailhub.org,2024-05-14,Google,North,Premium,Yes,34,Male
+CUST00135,Sara Thompson,noemail@example.com,2024-05-15,Google,North,Pro,Yes,40,Male
+CUST00136,Barbara Burton,barbara36@inboxmail.net,2024-05-16,YouTube,Central,Premium,Yes,60,Not specified
+CUST00138,Katie Gonzalez,katie38@example.com,2024-05-18,YouTube,West,Premium,Yes,40,Female
+CUST00139,Monique Miller MD,monique39@example.com,2024-05-19,LinkedIn,South,Premium,No,21,Not specified
+CUST00140,Michelle Richardson,michelle40@example.com,2024-05-20,Google,North,Basic,No,47,Female
+CUST00141,Daniel Guerrero,daniel41@example.com,2024-05-21,Google,South,Basic,No,29,Female
+CUST00142,Barbara Vincent,barbara42@mailhub.org,2024-05-22,Google,West,Premium,No,0,Male
+CUST00143,Jodi Rodriguez,jodi43@example.com,2024-05-23,LinkedIn,Central,Premium,No,53,Female
+CUST00144,Jasmine Golden,noemail@example.com,2024-05-24,Google,Central,Premium,No,34,Not specified
+CUST00145,Rhonda Reyes,rhonda45@mailhub.org,2024-05-25,LinkedIn,South,Pro,Yes,25,Male
+CUST00146,Dana Jones,dana46@mailhub.org,2024-05-26,Instagram,West,Basic,Yes,53,Male
+CUST00147,Dr. Danielle Snyder,dr.47@mailhub.org,2024-05-27,Referral,South,Pro,Yes,53,Not specified
+CUST00148,Richard Zuniga,richard48@inboxmail.net,2024-05-28,Google,South,Basic,Yes,25,Not specified
+CUST00149,Derek Mcintosh,derek49@inboxmail.net,2024-05-29,Facebook,Central,Pro,Yes,29,Female
+CUST00150,Ryan Smith,ryan50@mailhub.org,2024-05-30,Instagram,North,Premium,No,53,Not specified
+CUST00151,Michelle King,michelle51@inboxmail.net,2024-05-31,LinkedIn,North,Premium,No,25,Female
+CUST00152,Anthony Alvarado,anthony52@example.com,2024-06-01,YouTube,South,Basic,No,60,Male
+CUST00153,Andrew Ford,noemail@example.com,2024-06-02,Instagram,North,Premium,Yes,34,Not specified
+CUST00154,Barbara Castaneda,barbara54@example.com,2024-06-03,Google,North,Pro,No,21,Not specified
+CUST00155,Brandon Ashley,brandon55@mailhub.org,2024-06-04,LinkedIn,East,Pro,No,53,Male
+CUST00156,Robert Ibarra,robert56@example.com,2024-06-05,Referral,East,Basic,No,29,Female
+CUST00157,Louis Gibson,louis57@mailhub.org,2024-06-06,Instagram,Central,Pro,Yes,34,Male
+CUST00158,Jonathan Griffin,jonathan58@mailhub.org,2024-06-07,Google,Central,Pro,No,21,Not specified
+CUST00159,Jeremy Taylor,jeremy59@example.com,,Facebook,South,Basic,Yes,21,Female
+CUST00160,Christopher Brown,christopher60@inboxmail.net,2024-06-09,YouTube,South,Premium,Yes,40,Female
+CUST00161,Robert Carter,robert61@example.com,2024-06-10,LinkedIn,South,Pro,Yes,34,Male
+CUST00162,Mr. Tyler Stokes MD,noemail@example.com,2024-06-11,Instagram,East,Premium,Yes,40,Not specified
+CUST00163,Jacqueline Spears,jacqueline63@example.com,2024-06-12,Instagram,South,Unknownplan,No,53,Female
+CUST00164,Julie Schneider,julie64@mailhub.org,2024-06-13,Referral,West,Premium,Yes,40,Not specified
+CUST00166,Clifford Saunders,clifford66@mailhub.org,2024-06-15,Facebook,East,Pro,No,29,Not specified
+CUST00167,Jeffrey Salinas,jeffrey67@mailhub.org,2024-06-16,YouTube,East,Pro,No,60,Female
+CUST00168,Laura Johnson,laura68@inboxmail.net,2024-06-17,Facebook,South,Premium,Yes,47,Female
+CUST00169,Emily Smith,emily69@inboxmail.net,2024-06-18,Google,North,Pro,No,34,Female
+CUST00170,Sergio Osborne,sergio70@inboxmail.net,2024-06-19,Google,Central,Premium,Yes,25,Female
+CUST00171,Richard Miller,noemail@example.com,2024-06-20,Facebook,North,Pro,Yes,29,Female
+CUST00172,Joe Perry,joe72@mailhub.org,2024-06-21,YouTube,Central,Premium,Yes,47,Female
+CUST00173,Heidi Mendez,heidi73@mailhub.org,2024-06-22,Facebook,East,Basic,Yes,53,Female
+CUST00174,Ashley Yates,ashley74@mailhub.org,2024-06-23,YouTube,Central,Basic,No,40,Female
+CUST00175,Erika Ellis,erika75@inboxmail.net,2024-06-24,YouTube,Central,Pro,Yes,53,Male
+CUST00176,Joshua Sullivan,joshua76@mailhub.org,2024-06-25,LinkedIn,East,Basic,No,47,Not specified
+CUST00177,Alfred Baker,alfred77@example.com,2024-06-26,YouTube,North,Basic,No,25,Not specified
+CUST00178,Laura Harris,laura78@example.com,2024-06-27,Referral,South,Pro,No,34,Not specified
+CUST00179,Willie Wilson,willie79@mailhub.org,2024-06-28,YouTube,East,Premium,No,25,Not specified
+CUST00180,Daniel Hale,noemail@example.com,2024-06-29,YouTube,West,Premium,Yes,25,Male
+CUST00181,Thomas Rose,thomas81@example.com,2024-06-30,YouTube,South,Basic,No,53,Not specified
+CUST00182,Katie Baker,katie82@example.com,2024-07-01,Google,North,Pro,Yes,34,Female
+CUST00183,Joshua Jensen,joshua83@inboxmail.net,2024-07-02,Referral,Central,Basic,No,34,Male
+CUST00184,Richard Jones,richard84@mailhub.org,2024-07-03,Referral,North,Premium,No,25,Male
+CUST00185,Rhonda Herrera,rhonda85@mailhub.org,2024-07-04,Facebook,East,Premium,Yes,29,Male
+CUST00186,Christian Brown,christian86@inboxmail.net,2024-07-05,LinkedIn,North,Premium,Yes,25,Male
+CUST00187,Dylan Holt,dylan87@example.com,2024-07-06,YouTube,South,Pro,Yes,25,Male
+CUST00188,Tony Wilson,tony88@example.com,2024-07-07,Instagram,North,Basic,No,40,Female
+CUST00189,Hannah Anderson,noemail@example.com,2024-07-08,LinkedIn,North,Premium,No,25,Male
+CUST00190,Matthew Walker,matthew90@mailhub.org,2024-07-09,LinkedIn,North,Premium,Yes,40,Female
+CUST00191,Jenna Miller,jenna91@example.com,2024-07-10,Referral,East,Pro,Yes,21,Not specified
+CUST00192,Jacob Mclean,jacob92@inboxmail.net,2024-07-11,LinkedIn,South,Basic,Yes,25,Female
+CUST00193,Patricia Campbell,patricia93@inboxmail.net,2024-07-12,YouTube,East,Basic,Yes,29,Not specified
+CUST00194,Rachel Fernandez,rachel94@mailhub.org,2024-07-13,YouTube,West,Basic,No,40,Male
+CUST00195,Darren Neal,darren95@inboxmail.net,2024-07-14,Google,Central,Basic,Yes,40,Male
+CUST00196,James Porter,james96@inboxmail.net,2024-07-15,YouTube,South,Pro,Yes,34,Male
+CUST00198,Kimberly Jackson,noemail@example.com,2024-07-17,Referral,North,Pro,Yes,47,Not specified
+CUST00199,Kyle Williams,kyle99@inboxmail.net,2024-07-18,YouTube,North,Premium,No,21,Male
+CUST00200,William Sweeney,william0@inboxmail.net,2024-07-19,Google,Central,Pro,Yes,29,Male
+CUST00201,Beverly Davis,beverly1@inboxmail.net,2024-07-20,Instagram,East,Premium,No,53,Not specified
+CUST00202,Donald Underwood,donald2@example.com,2024-07-21,Referral,West,Basic,Yes,40,Female
+CUST00203,Kevin Brown,kevin3@mailhub.org,2024-07-22,Instagram,West,Basic,Yes,29,Female
+CUST00204,Patricia Powers,patricia4@mailhub.org,2024-07-23,Referral,North,Basic,No,20,Not specified
+CUST00205,Brian Hicks,brian5@mailhub.org,2024-07-24,Facebook,North,Pro,Yes,47,Male
+CUST00206,Todd Peck III,todd6@example.com,2024-07-25,Google,East,Pro,Yes,25,Not specified
+CUST00207,Linda Evans,noemail@example.com,2024-07-26,Facebook,South,Premium,No,40,Not specified
+CUST00208,Michael Myers,michael8@example.com,2024-07-27,YouTube,East,Premium,Yes,40,Not specified
+CUST00209,Thomas Jones,thomas9@mailhub.org,2024-07-28,Instagram,North,Premium,No,29,Female
+CUST00210,Amanda Baldwin,amanda10@example.com,2024-07-29,YouTube,North,Premium,No,29,Male
+CUST00211,Lisa Taylor,lisa11@mailhub.org,2024-07-30,LinkedIn,West,Pro,No,29,Female
+CUST00212,Russell Griffin,russell12@example.com,2024-07-31,Referral,North,Pro,No,40,Male
+CUST00213,Spencer Williams,spencer13@inboxmail.net,2024-08-01,LinkedIn,West,Pro,No,34,Male
+CUST00214,Paul Friedman,paul14@inboxmail.net,2024-08-02,Google,South,Basic,No,53,Not specified
+CUST00215,Amanda Whitaker,amanda15@mailhub.org,2024-08-03,Google,South,Pro,No,40,Male
+CUST00216,David Morales,noemail@example.com,2024-08-04,Google,South,Pro,No,21,Male
+CUST00217,Dylan Wallace,dylan17@example.com,,LinkedIn,South,Basic,Yes,40,Female
+CUST00218,Jared Smith,jared18@example.com,2024-08-06,Google,West,Pro,Yes,29,Not specified
+CUST00219,Tracey Kelly,tracey19@inboxmail.net,2024-08-07,Instagram,South,Premium,No,40,Female
+CUST00220,Lisa Perry,lisa20@inboxmail.net,2024-08-08,YouTube,East,Basic,Yes,40,Male
+CUST00221,Matthew Moss,matthew21@example.com,2024-08-09,YouTube,East,Basic,No,25,Male
+CUST00222,Alexander Bradley,alexander22@example.com,2024-08-10,Facebook,West,Premium,No,34,Male
+CUST00223,Jeffrey Cunningham,jeffrey23@example.com,2024-08-11,Google,North,Basic,Yes,25,Not specified
+CUST00224,Garrett Mcmahon,garrett24@example.com,2024-08-12,Referral,West,Basic,No,21,Female
+CUST00225,James Small,noemail@example.com,2024-08-13,LinkedIn,South,Basic,No,29,Not specified
+CUST00226,Christopher Miles,christopher26@example.com,2024-08-14,Facebook,North,Pro,No,29,Female
+CUST00227,Katie Collins,katie27@example.com,2024-08-15,Referral,South,Basic,No,0,Not specified
+CUST00228,Robin Wilson,robin28@mailhub.org,2024-08-16,Referral,East,Basic,Yes,34,Female
+CUST00229,Kevin Colon,kevin29@example.com,2024-08-17,Google,North,Unknownplan,No,29,Female
+CUST00231,Ethan Clay,ethan31@mailhub.org,2024-08-19,Instagram,East,Pro,No,21,Male
+CUST00232,Jeff Watson,jeff32@example.com,2024-08-20,Instagram,South,Pro,Yes,0,Not specified
+CUST00233,Laura Brown,laura33@inboxmail.net,2024-08-21,Facebook,Central,Pro,No,40,Female
+CUST00234,Joe Crosby,noemail@example.com,2024-08-22,Instagram,North,Unknownplan,Yes,47,Male
+CUST00235,Gloria King,gloria35@mailhub.org,2024-08-23,Google,North,Basic,Yes,25,Not specified
+CUST00236,Savannah Smith,savannah36@inboxmail.net,2024-08-24,Instagram,West,Premium,No,29,Male
+CUST00237,Olivia Schmitt,olivia37@example.com,2024-08-25,Facebook,East,Pro,No,34,Female
+CUST00238,Misty Blair,misty38@example.com,2024-08-26,Instagram,West,Premium,Yes,53,Male
+CUST00239,David Sparks,david39@example.com,2024-08-27,LinkedIn,East,Pro,No,21,Male
+CUST00240,Sarah Sullivan,sarah40@example.com,2024-08-28,Google,South,Basic,Yes,29,Not specified
+CUST00241,Drew Leon II,drew41@mailhub.org,2024-08-29,Facebook,Central,Premium,Yes,0,Not specified
+CUST00242,Michelle Harding,michelle42@mailhub.org,2024-08-30,Google,Central,Pro,No,34,Not specified
+CUST00244,Tracy Wallace,tracy44@inboxmail.net,2024-09-01,Google,South,Basic,Yes,21,Not specified
+CUST00245,Amanda Leonard,amanda45@example.com,2024-09-02,Referral,East,Basic,Yes,0,Not specified
+CUST00246,Steven Davidson,steven46@inboxmail.net,2024-09-03,YouTube,South,Basic,Yes,21,Not specified
+CUST00247,Nicholas Pearson,nicholas47@mailhub.org,2024-09-04,Referral,North,Premium,Yes,47,Female
+CUST00248,Ricky Maldonado,ricky48@example.com,2024-09-05,YouTube,North,Basic,No,47,Female
+CUST00249,Jamie Calhoun,jamie49@example.com,2024-09-06,Google,North,Premium,No,25,Not specified
+CUST00250,Daniel Shepherd,daniel50@mailhub.org,2024-09-07,Facebook,North,Pro,No,40,Not specified
+CUST00251,Andre Pratt,andre51@mailhub.org,2024-09-08,YouTube,East,Basic,No,21,Female
+CUST00252,Taylor Gray,noemail@example.com,2024-09-09,LinkedIn,North,Pro,Nil,25,Male
+CUST00253,Richard Morris,richard53@mailhub.org,2024-09-10,LinkedIn,East,Premium,Yes,47,Not specified
+CUST00254,Mark Durham,mark54@mailhub.org,2024-09-11,Instagram,Central,Basic,No,53,Female
+CUST00255,Cheryl Scott,cheryl55@mailhub.org,2024-09-12,YouTube,West,Premium,No,40,Not specified
+CUST00256,Jamie Gross,jamie56@example.com,2024-09-13,Facebook,Central,Premium,No,34,Not specified
+CUST00257,Eric Atkinson,eric57@mailhub.org,2024-09-14,Referral,West,Pro,No,25,Male
+CUST00258,Paul Jackson,paul58@example.com,2024-09-15,Google,West,Pro,No,21,Male
+CUST00259,Joseph Day,joseph59@example.com,2024-09-16,Instagram,Central,Basic,Yes,21,Not specified
+CUST00260,Leslie Stone,leslie60@mailhub.org,2024-09-17,LinkedIn,South,Premium,Yes,25,Not specified
+CUST00261,Mrs. Felicia Powell MD,noemail@example.com,2024-09-18,Referral,East,Pro,Yes,29,Female
+CUST00262,Kathryn Welch,kathryn62@mailhub.org,2024-09-19,Referral,South,Premium,No,29,Female
+CUST00263,Marc Chen,marc63@example.com,2024-09-20,Google,North,Pro,Yes,29,Male
+CUST00264,Robert Johnson,robert64@mailhub.org,2024-09-21,YouTube,North,Pro,Yes,25,Female
+CUST00265,Mark Foster,mark65@mailhub.org,2024-09-22,LinkedIn,North,Pro,No,34,Female
+CUST00266,Christopher Hawkins,christopher66@mailhub.org,2024-09-23,Google,West,Basic,No,53,Not specified
+CUST00267,Mary Estrada,mary67@inboxmail.net,2024-09-24,Referral,North,Premium,No,29,Not specified
+CUST00268,Karen Rogers,karen68@example.com,2024-09-25,Google,North,Basic,Yes,60,Female
+CUST00269,Brian Burke,brian69@inboxmail.net,2024-09-26,Facebook,East,Pro,Yes,53,Not specified
+CUST00270,Brian Hernandez,noemail@example.com,2024-09-27,YouTube,North,Premium,No,25,Not specified
+CUST00271,Michelle Stark,michelle71@mailhub.org,2024-09-28,LinkedIn,North,Premium,No,47,Male
+CUST00272,Eric Mercado,eric72@inboxmail.net,2024-09-29,YouTube,West,Basic,Yes,40,Female
+CUST00273,Michelle Perez,michelle73@mailhub.org,2024-09-30,Google,South,Pro,Yes,34,Not specified
+CUST00274,Stanley Rodriguez,stanley74@inboxmail.net,2024-10-01,Facebook,North,Pro,No,29,Female
+CUST00275,Emma Campbell,emma75@mailhub.org,2024-10-02,Facebook,North,Premium,No,34,Not specified
+CUST00276,Jason Williams,jason76@inboxmail.net,2024-10-03,Facebook,North,Pro,Yes,29,Not specified
+CUST00277,Laura Huber,laura77@inboxmail.net,2024-10-04,Referral,East,Basic,No,34,Female
+CUST00278,Jennifer Patel,jennifer78@inboxmail.net,2024-10-05,Referral,Central,Premium,Yes,40,Male
+CUST00279,Don Doyle,noemail@example.com,2024-10-06,YouTube,Central,Pro,Yes,40,Not specified
+CUST00280,Maria Henry,maria80@example.com,2024-10-07,Instagram,South,Pro,Yes,34,Male
+CUST00281,Andrew Parks,andrew81@inboxmail.net,2024-10-08,YouTube,Central,Basic,Yes,47,Male
+CUST00282,Taylor Dawson,taylor82@example.com,2024-10-09,LinkedIn,North,Basic,No,25,Male
+CUST00283,Tiffany Ellison,tiffany83@mailhub.org,2024-10-10,Google,East,Pro,No,25,Female
+CUST00284,Chad Nguyen,chad84@inboxmail.net,2024-10-11,Google,South,Premium,Yes,53,Not specified
+CUST00285,Daniel Tate,daniel85@mailhub.org,2024-10-12,Instagram,North,Basic,Yes,29,Female
+CUST00286,Bethany Campbell,bethany86@mailhub.org,2024-10-13,Google,North,Premium,Yes,21,Male
+CUST00287,Antonio Hammond,antonio87@inboxmail.net,2024-10-14,Instagram,West,Premium,Yes,25,Female
+CUST00288,Ashley Sims MD,noemail@example.com,2024-10-15,YouTube,South,Basic,Yes,25,Female
+CUST00289,Daniel Dunn,daniel89@example.com,2024-10-16,Referral,West,Basic,No,0,Male
+CUST00290,Michael Nichols,michael90@inboxmail.net,2024-10-17,Facebook,North,Pro,No,40,Male
+CUST00291,Thomas Flores,thomas91@mailhub.org,2024-10-18,YouTube,South,Basic,No,60,Female
+CUST00292,Ellen Blair,ellen92@mailhub.org,2024-10-19,Google,East,Unknownplan,Yes,40,Male
+CUST00293,Yvonne Harding,yvonne93@inboxmail.net,2024-10-20,Google,Central,Pro,Yes,34,Male
+CUST00294,Mrs. Jessica Smith,mrs.94@example.com,2024-10-21,Google,South,Pro,Yes,29,Not specified
+CUST00295,Gary Smith,gary95@example.com,2024-10-22,Google,West,Premium,Yes,40,Not specified
+CUST00296,Anthony Roberts,anthony96@mailhub.org,2024-10-23,Google,Central,Basic,Yes,25,Female
+CUST00297,Timothy Mclaughlin,noemail@example.com,2024-10-24,Instagram,West,Basic,Yes,60,Not specified
+CUST00298,Justin Mcintyre,justin98@mailhub.org,2024-10-25,YouTube,South,Premium,No,53,Male
+CUST00299,Mr. Bruce Bridges,mr.99@example.com,2024-10-26,Google,North,Premium,Yes,29,Male
